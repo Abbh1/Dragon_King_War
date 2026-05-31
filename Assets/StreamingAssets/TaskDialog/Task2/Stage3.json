@@ -1,0 +1,39 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "墓园里的怪物我已经消灭了，奖励给我吧",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "勇士果然武力高强，这是你的奖励",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "就只有几瓶药水，那我得考虑向治安官汇报下你们商队和墓园的情况了",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "勇士真是急性子，这重头戏还在后面",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "水晶矿，还算你识相",
+      "speaker": 1
+    }
+  ]
+}

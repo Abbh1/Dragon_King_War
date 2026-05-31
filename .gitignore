@@ -1,0 +1,133 @@
+# ============================================================
+# Unity Git Ignore (Production Ready)
+# Last Updated: 2026
+# Compatible with Unity 2020+
+# ============================================================
+
+# -------------------------------
+# Unity Core Generated Folders
+# -------------------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.utmp/
+
+*.log
+
+# -------------------------------
+# Asset Store & Third Party
+# -------------------------------
+# Uncomment if you want to ignore Asset Store tools
+# [Aa]ssets/AssetStoreTools*
+
+# JetBrains Rider
+[Aa]ssets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# Visual Studio / Rider / Consulo
+.vs/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity meta for debug files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# -------------------------------
+# Unity Crashes & Debug
+# -------------------------------
+sysinfo.txt
+mono_crash.*
+
+# -------------------------------
+# Build Outputs
+# -------------------------------
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Gradle
+.gradle/
+
+# Crashlytics
+crashlytics-build.properties
+
+# -------------------------------
+# Blender / Art Assets
+# -------------------------------
+# Blender backup files (not needed)
+*.blend1
+*.blend1.meta
+
+# -------------------------------
+# Large Runtime Data
+# -------------------------------
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# -------------------------------
+# Addressables
+# -------------------------------
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# -------------------------------
+# Visual Scripting
+# -------------------------------
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+# -------------------------------
+# Play Mode / Test Scenes
+# -------------------------------
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/[Aa]ssets/[Ii]nitTestScene*.unity*
+
+# Scene dependency cache
+/[Aa]ssets/[Ss]ceneDependencyCache*
+
+# -------------------------------
+# OS / Editor Specific
+# -------------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------------
+# Local Config (Optional)
+# -------------------------------
+# Uncomment if you want to ignore local config
+# /Config/Local/
+# /Config/Local.meta
+
+
+# Ignore Unity Resources folder
+/[Aa]ssets/Resources/
+/[Aa]ssets/Resources.meta

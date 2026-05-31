@@ -1,0 +1,88 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "勇士请留步",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "有什么事吗",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "你手上的剑可否是把尘封的宝剑",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "你是怎么看出来的",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "我锻造武器数十载，见过无数宝剑，但这一把宝剑的气质却与众不同",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "可惜经过岁月流逝，这把宝剑失去了它的锋芒，不过我有办法让它重回新生",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "什么办法",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "我这里有一颗珍惜的水晶矿，如果你能再找到两颗，我便能为你锻造",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "那你需要什么回报吗",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "这就不必了，能亲手锻造这把武器便已经是我的荣幸了",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "那水晶矿应如何寻找",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "水晶矿十分珍惜，能否找到全随造化，你在城中打听或许会有线索,等你搜集到两块水晶矿便来找我吧",
+      "speaker": 1
+    }
+  ]
+}

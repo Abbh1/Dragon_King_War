@@ -1,0 +1,25 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/DialogPanel/Default",
+      "rImgPath": "Textures/UI/StandingImg/Skeleton",
+      "titie": "恶灵骷髅",
+      "message": "呀",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "亚瑟",
+      "message": "怎么回事，为什么会出现这么多魔物",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "亚瑟",
+      "message": "不能让他们威胁民众，得尽快扫清它们",
+      "speaker": 0
+    }
+  ]
+}

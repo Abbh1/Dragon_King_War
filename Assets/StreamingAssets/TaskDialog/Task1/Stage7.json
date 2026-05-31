@@ -1,0 +1,74 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "亚瑟",
+      "message": "这究竟是怎么回事",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "这把剑是先王尤瑟的佩剑，而这些魔兽便是他常年征战所吸收的怨魂",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "而你的实力还不够，无法压制魔气四溢",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "逃走的魔气也会对那些意志不够坚定的人产生剧烈影响",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "会无限放大他们内心的阴暗面",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "同时这把宝剑也是选王圣剑，你既然拔出了它，便要肩负起王的责任",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "今后你还会不断的与这些被魔气侵染的人和兽战斗",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "亚瑟",
+      "message": "原来如此，我明白了",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "我这有一块水晶矿相信会对你未来的冒险有很大助力",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "亚瑟",
+      "message": "多谢前辈指点，那我便却之不恭了",
+      "speaker": 0
+    }
+  ]
+}

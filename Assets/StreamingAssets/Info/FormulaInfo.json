@@ -1,0 +1,35 @@
+{
+  "formulas": [
+    {
+      "OrignMaterials": [ 25, 25, 25 ],
+      "Products": [ 6 ]
+    },
+    {
+      "OrignMaterials": [ 25, 25, 25, 25 ],
+      "Products": [ 6, 6 ]
+    },
+    {
+      "OrignMaterials": [ 2, 23 ],
+      "Products": [ 4 ]
+    },
+    {
+      "OrignMaterials": [ 24,24,24,24 ],
+      "Products": [ 5 ]
+    },
+    {
+      "OrignMaterials": [ 13, 26,26,26],
+      "Products": [ 14 ]
+    },
+    {
+      "OrignMaterials": [ 14, 26,26,26 ],
+      "Products": [ 15 ]
+    },
+    {
+      "OrignMaterials": [ 27, 27, 22, 22 ],
+      "Products": [ 8 ]
+    },
+    {
+      "OrignMaterials": [ 27, 27, 27, 23 ],
+      "Products": [ 17 ]
+    }
+  ]}

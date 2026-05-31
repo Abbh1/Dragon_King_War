@@ -1,0 +1,53 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "我已经找到两块水晶矿了",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "居然如此迅速吗，勇士果然与众不同",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "我这便为你锻造",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "",
+      "message": "一段时间后",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "铁剑已经锻造完成，只需最后的镶嵌工作，最后一步应由宝剑的主人亲自制作才能发挥最大用途",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "亚瑟",
+      "message": "我该如何镶嵌",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Smith",
+      "titie": "铁匠",
+      "message": "你只需将三块水晶矿以及这把尘封之间分别放在合成位置即可完成最后的融合工作",
+      "speaker": 1
+    }
+  ]
+}

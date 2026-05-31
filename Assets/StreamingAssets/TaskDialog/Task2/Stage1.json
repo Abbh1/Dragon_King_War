@@ -1,0 +1,60 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "这位勇士我看你气宇不凡,不知能否抽出时间帮我一个小忙",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "帮忙也不是不行，但不知我能得到什么好处",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "勇士果然直接，事情结束后我必重谢",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "说吧，有什么麻烦需要解决",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "是这样的，最近不知为何城镇南边墓园有魔物袭人，严重影响我们商队经营",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "不知勇士能否消灭墓园里的魔物",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "亚瑟",
+      "message": "你们商队与墓园何干",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Trader",
+      "titie": "商人",
+      "message": "勇士只需完成自己任务就好，别的事情还是少打听为妙",
+      "speaker": 1
+    }
+  ]
+}

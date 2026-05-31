@@ -1,0 +1,39 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "亚瑟",
+      "message": "这便是竞技场吗，真宏伟，那边的雕像是谁",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "艾克特",
+      "message": "那是我们前任的王，正是因为他的英明统治，我们大英帝国才如此繁荣昌盛",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "亚瑟",
+      "message": "感谢吾王恩赐，我必将守护我大英子民",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "艾克特",
+      "message": "糟了，我把配剑丢在旅馆了",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "亚瑟",
+      "message": "父亲莫慌，我这便返回为你取来",
+      "speaker": 0
+    }
+  ]
+}

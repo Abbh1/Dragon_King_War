@@ -1,0 +1,11 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "亚瑟",
+      "message": "已经快要到选武大比的时间，得快点找到父亲，让他早些准备",
+      "speaker": 0
+    }
+  ]
+}

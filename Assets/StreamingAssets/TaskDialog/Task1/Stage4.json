@@ -1,0 +1,53 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "亚瑟",
+      "message": "可恶，怎么进不了旅馆了",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/DialogPanel/Default",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "告示牌",
+      "message": "晚间停业休整中",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/DialogPanel/Default",
+      "titie": "亚瑟",
+      "message": "这还怎么拿剑呢？",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "迷途的王啊，你是否在寻找一把趁手的宝剑呢？",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "亚瑟",
+      "message": "王？不过我确实需要一把宝剑",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "石旁老翁",
+      "message": "那么，要不要试试拔出这把石中剑呢？",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Mage",
+      "titie": "亚瑟",
+      "message": "好，我试试看",
+      "speaker": 0
+    }
+  ]
+}

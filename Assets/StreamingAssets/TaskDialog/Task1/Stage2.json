@@ -1,0 +1,32 @@
+{
+  "dialogs": [
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "亚瑟",
+      "message": "父亲，我们该出发前往竞技场了",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "艾克特",
+      "message": "确实该出发了，这次大比的冠军我势在必得，待我取得冠军获得王位，必让罗马之敌大败而归",
+      "speaker": 1
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "亚瑟",
+      "message": "父亲武艺天下无人能敌，待父亲称王，我必随军破敌",
+      "speaker": 0
+    },
+    {
+      "lImgPath": "Textures/UI/StandingImg/Arthur",
+      "rImgPath": "Textures/UI/StandingImg/Eckert",
+      "titie": "艾克特",
+      "message": "你能有如此志向，不负我多年培育，出发吧，如此庄重的日子我们应走大路",
+      "speaker": 1
+    }
+  ]
+}
